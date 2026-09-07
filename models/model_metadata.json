@@ -1,0 +1,19 @@
+{
+    "features": [
+        "Pregnancies",
+        "Glucose",
+        "BloodPressure",
+        "SkinThickness",
+        "Insulin",
+        "BMI",
+        "DiabetesPedigreeFunction",
+        "Age"
+    ],
+    "random_forest_threshold": 0.3,
+    "model": "Tuned Random Forest",
+    "test_accuracy": 0.9138,
+    "test_precision": 0.8605,
+    "test_recall": 0.9024,
+    "test_f1_score": 0.881,
+    "test_roc_auc": 0.9551
+}
